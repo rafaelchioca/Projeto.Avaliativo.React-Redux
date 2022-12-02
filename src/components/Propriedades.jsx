@@ -9,7 +9,7 @@ export default props => {
         <Card title={props.titulo} yellow>
             <div>
                 <span>
-                    <span className='aluno'>{props.aluno} sua nota é </span>
+                    <span className='aluno'>{props.aluno} sua nota é: </span>
                     <span>{num}</span>
                 </span>
             </div>

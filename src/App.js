@@ -9,7 +9,7 @@ import Recesso from './components/Recesso';
 
 function App() {
 
-  const [num, setNum] = useState(10);
+  const [num, setNum] = useState();
   return (
     <div className='App'>
       <h1>PROJETO AVALIATIVO REACT-REDUX 2º BIMESTRE</h1>
